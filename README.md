@@ -8,7 +8,7 @@ HMVC Flexible site management system
 4. In the files (/config/database.php) we specify the connection parameters.
 
 ```
-git clone https://github.com/artemmelnik/flexicms.git name_project
+git clone https://github.com/Only-to-top/flexicms.git name_project
 ```
 
 Next...
